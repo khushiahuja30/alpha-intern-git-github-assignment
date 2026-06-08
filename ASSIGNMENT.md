@@ -11,3 +11,23 @@ Command Used :- git config --global user.email"ahujarekha09@gmail.com"
 Output :- Khushi
 <br>
 Output :- ahujarekha09@gmail.com
+<br>
+Git	:-
+<br>
+Version control system	
+<br>
+Works locally	
+<br>
+Tracks code changes	
+<br>
+Command-line tool
+<br>
+GitHub :-
+<br>
+Hosting platform for Git repositories
+<br>
+Works online
+<br>
+Enables collaboration
+<br>
+Web-based platform
