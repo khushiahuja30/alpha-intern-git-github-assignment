@@ -83,3 +83,7 @@ List Tags :-
 git tag
 <br>
 Output :- v1.0
+<br>
+Git Reflog
+<br>
+Command :- git reflog
