@@ -28,8 +28,6 @@ e93d7cb Create ASSIGNMENT.md
 <br>
 Branch Rename Command
 <br>
-Command Used:
-<br>
 git branch -m feature/day-1-practice feature/day-1-final
 <br>
 Purpose:
@@ -55,3 +53,11 @@ Save the file.
 Run git add .
 <br>
 Commit the resolved file.
+<br>
+Git Diff
+<br>
+Command:
+<br>
+git diff
+<br>
+The git diff command shows changes made in files that have not been committed yet.
