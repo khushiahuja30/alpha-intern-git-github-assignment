@@ -12,52 +12,24 @@ Output :- Khushi
 <br>
 Output :- ahujarekha09@gmail.com
 <br>
-Git Log Output :-
+Difference between Git and GitHub :-
 <br>
-e562059 (HEAD -> main, feature/day-1-final) Add branch practice file
+Git	:-
 <br>
-a2a4c85 Add day1 practice file
+Version control system	
 <br>
-d67c29e (origin/main, origin/HEAD) Update ASSIGNMENT.md
+Works locally	
 <br>
-e93d7cb Create ASSIGNMENT.md
+Tracks code changes	
 <br>
-420cefa Update README.md
+Command-line tool
 <br>
-512329a Initial commit
+GitHub :-
 <br>
-Branch Rename Command
+Hosting platform for Git repositories
 <br>
-git branch -m feature/day-1-practice feature/day-1-final
+Works online
 <br>
-Purpose:
+Enables collaboration
 <br>
-This command renames an existing branch from feature/day-1-practice to feature/day-1-final.
-<br>
-Merge Conflict Explanation
-<br>
-A merge conflict occurs when the same part of a file is modified differently in two branches and Git cannot automatically decide which version to keep.
-<br>
-Resolution Steps:
-<br>
-Open the conflicted file.
-<br>
-Review both versions of the changes.
-<br>
-Keep the correct content.
-<br>
-Remove conflict markers.
-<br>
-Save the file.
-<br>
-Run git add .
-<br>
-Commit the resolved file.
-<br>
-Git Diff
-<br>
-Command:
-<br>
-git diff
-<br>
-The git diff command shows changes made in files that have not been committed yet.
+Web-based platform
