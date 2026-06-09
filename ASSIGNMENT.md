@@ -61,3 +61,25 @@ Command:
 git diff
 <br>
 The git diff command shows changes made in files that have not been committed yet.
+<br>
+Git Stash
+<br>
+Commands Used:
+<br>
+git stash
+<br>
+git stash list
+<br>
+git stash apply
+<br>
+Git Tags
+<br>
+Create Tag :-
+<br>
+git tag v1.0
+<br>
+List Tags :-
+<br>
+git tag
+<br>
+Output :- v1.0
